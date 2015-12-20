@@ -1,0 +1,1 @@
+Unless otherwise noted all files in this repository are available under a Creative Commons Attribution 3.0 Unported License (CC BY 3.0) https://creativecommons.org/licenses/by/3.0/. In other words, share generously but provide attribution.
